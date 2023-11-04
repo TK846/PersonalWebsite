@@ -7,8 +7,5 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "tk846",
-    "license": "ISC",
-    "devDependencies": {
-        "tailwindcss": "^3.3.5"
-    }
+    "license": "ISC"
 }
