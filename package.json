@@ -1,0 +1,11 @@
+{
+    "name": "personal_website",
+    "version": "1.0.0",
+    "description": "the website of tk846",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "tk846",
+    "license": "ISC"
+}
